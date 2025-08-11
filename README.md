@@ -1,1 +1,1 @@
- Create to-do list using file handling,List and string Manipulation.Implenment add/remove/view function.
+ Create a Analyze sales data using pandas.use groupby(),sum(),lpot() function.
